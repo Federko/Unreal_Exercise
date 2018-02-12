@@ -7,3 +7,5 @@ Creates a scenecomponent that moves the components attached to it in the defined
 Exercise 2:
 Starting with the C++ side scroller project, replace the dummy (character) with a pawn and take the inputs with it
 
+Exercise 3:
+Implements a new type of curve that supports FRotator
